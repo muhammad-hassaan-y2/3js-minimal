@@ -9,31 +9,31 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "Muhammad",
-    url: "https://r3f-wawatmos-final.vercel.app/",
+    url: "https://github.com/muhammad-hassaan-y2/",
     image: "projects/wawatmos.jpg",
     description: "Recreating the Atmos Awwwards website with React Three Fiber",
   },
   {
     title: "Portfolio Baking",
-    url: "https://www.youtube.com/watch?v=YkHqpqJgLKw",
+    url: "hhttps://github.com/muhammad-hassaan-y2/",
     image: "projects/baking.jpg",
     description: "Learn how to bake a 3D model with Blender and use it in r3f",
   },
   {
     title: "3D Avatar",
-    url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
+    url: "https://github.com/muhammad-hassaan-y2/",
     image: "projects/avatar.jpg",
     description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
   },
   {
     title: "Kanagame",
-    url: "https://www.youtube.com/watch?v=zwNF1-lsia8",
+    url: "https://github.com/muhammad-hassaan-y2/",
     image: "projects/kanagame.jpg",
     description: "Use React Three Fiber to create a 3D game",
   },
   {
     title: "Loader",
-    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
+    url: "https://github.com/muhammad-hassaan-y2/",
     image: "projects/loader.jpg",
     description: "Create a loading screen for your r3f projects",
   },
